@@ -18,7 +18,7 @@ public class UFOEnemyShipBuilding extends EnemyShipBuilding {
 			theEnemyShip = new UFOEnemyShip(shipPartsFactory);
 			theEnemyShip.setName("UFO Grunt Ship");
 
-		} else
+		}
 
 		// If UFO BOSS was sent grab use the factory that knows
 		// what types of weapons and engines a Boss UFO
